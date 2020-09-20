@@ -3,8 +3,3 @@ This app is a simulation modeled after the act of sending items to other players
 It is ruby practice for my bootcamp.
 
 It is my first app!
-
-to do:
--create Item, Letter, and Player classes
-    -Player can have many Item
-    -Item
